@@ -1,5 +1,5 @@
 # IBM-Project-3694-1658591082
-Containment Zone Alerting Application
+# Containment Zone Alerting Application
 Category: Cloud App Development 
 ![image](https://user-images.githubusercontent.com/89784146/201536965-bfeee5a3-2ea5-4ea3-860c-3e304d75f253.png)
 
@@ -15,7 +15,21 @@ Category: Cloud App Development
 ## Skills Required:
 > IBM Cloud,HTML,Javascript,IBM Cloud Object Storage,Python-Flask,Kubernetes,Docker,IBM DB2,IBM Container Registry
 
+## Project Description 📜📜:
+> The application is intended to provide information about the containment zones in a particular region by alerting people, through continuous monitoring of an individual's location through GPS.The key benefits of the application are monitoring people's activity and alerting them when they enter a contaminated zone.
 
+## Technologies Used 🖥️☁:
+ -	HTML
+ - CSS and BootStrap
+ -	JavaScript
+ -	Python-Flask
+ -	Kubernetes
+ -	Docker
+ -	IBM Cloud
+ -	IBM Cloud Object Storage
+ -	IBM DB2
+ -	IBM Container Registry
+ -	
 ## Project Idea: <img src="https://media2.giphy.com/media/i0HhgCcJE3GM8KGy4g/giphy.gif?cid=ecf05e47y8upop3gmngnos1u7hfqm8h6bpagzst3g7dhqixo&rid=giphy.gif&ct=s" width="30px">
    > This application is intended to provide information about containment zones in a particular region by alerting people, through continuous monitoring of an individual's location.  Key benefits of the application are monitoring people's activity and alerting them of their safety movements.
 
